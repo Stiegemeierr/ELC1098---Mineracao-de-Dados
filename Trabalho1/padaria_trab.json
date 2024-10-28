@@ -12,7 +12,7 @@
         "produtos": [
             "Queijo Minas",
             "Pão Gajeta",
-            "Doce Leite"
+            "Doce"
         ]
     },
     {
@@ -35,7 +35,7 @@
     {
         "compra": 5,
         "produtos": [
-            "Doce Amendoim",
+            "Doce",
             "Refri - Pepsi",
             "Pão Gajeta"
         ]
@@ -60,7 +60,7 @@
             "Queijo Mussarela",
             "Pastel Frango",
             "Pão Gajeta",
-            "Doce Leite"
+            "Doce"
         ]
     },
     {
@@ -75,7 +75,7 @@
     {
         "compra": 10,
         "produtos": [
-            "Doce Goiabada",
+            "Doce",
             "Refri - Fanta",
             "Pão Gajeta",
             "Pastel Carne"
@@ -92,7 +92,7 @@
     {
         "compra": 12,
         "produtos": [
-            "Doce Leite",
+            "Doce",
             "Café Melita"
         ]
     },
@@ -109,7 +109,7 @@
         "compra": 14,
         "produtos": [
             "Presunto Seara",
-            "Doce Goiabada",
+            "Doce",
             "Café Melita"
         ]
     },
@@ -157,7 +157,7 @@
     {
         "compra": 20,
         "produtos": [
-            "Doce Amendoim",
+            "Doce",
             "Pão Cabrito",
             "Café Iguaçú",
             "Refri - Coca Cola"
@@ -195,7 +195,7 @@
     {
         "compra": 25,
         "produtos": [
-            "Doce Goiabada",
+            "Doce",
             "Pastel Frango"
         ]
     },
@@ -204,7 +204,7 @@
         "produtos": [
             "Pastel Queijo",
             "Presunto Seara",
-            "Doce Goiabada",
+            "Doce",
             "Queijo Minas"
         ]
     },
@@ -228,7 +228,7 @@
         "compra": 29,
         "produtos": [
             "Pastel Carne",
-            "Doce Leite"
+            "Doce"
         ]
     },
     {
@@ -236,7 +236,7 @@
         "produtos": [
             "Presunto Sadia",
             "Pastel Queijo",
-            "Doce Goiabada",
+            "Doce",
             "Queijo Minas"
         ]
     },
@@ -267,7 +267,7 @@
     {
         "compra": 34,
         "produtos": [
-            "Doce Amendoim",
+            "Doce",
             "Pão Francês",
             "Presunto Sadia",
             "Refri - Fanta"
@@ -278,7 +278,7 @@
         "produtos": [
             "Presunto Sadia",
             "Queijo Mussarela",
-            "Doce Amendoim",
+            "Doce",
             "Café Melita"
         ]
     },
@@ -310,7 +310,7 @@
     {
         "compra": 39,
         "produtos": [
-            "Doce Amendoim",
+            "Doce",
             "Presunto Sadia",
             "Pastel Frango"
         ]
@@ -318,7 +318,7 @@
     {
         "compra": 40,
         "produtos": [
-            "Doce Amendoim",
+            "Doce",
             "Café Iguaçú",
             "Pastel Carne"
         ]
@@ -328,7 +328,7 @@
         "produtos": [
             "Pastel Queijo",
             "Pão Francês",
-            "Doce Leite",
+            "Doce",
             "Presunto Seara"
         ]
     },
@@ -360,7 +360,7 @@
         "compra": 45,
         "produtos": [
             "Queijo Minas",
-            "Doce Amendoim",
+            "Doce",
             "Pão Gajeta"
         ]
     },
@@ -375,7 +375,7 @@
         "compra": 47,
         "produtos": [
             "Pastel Frango",
-            "Doce Leite",
+            "Doce",
             "Pão Gajeta"
         ]
     },
@@ -389,7 +389,7 @@
     {
         "compra": 49,
         "produtos": [
-            "Doce Leite",
+            "Doce",
             "Pão Francês",
             "Refri - Fanta"
         ]
@@ -397,7 +397,7 @@
     {
         "compra": 50,
         "produtos": [
-            "Doce Goiabada",
+            "Doce",
             "Presunto Perdigão"
         ]
     },
@@ -412,7 +412,7 @@
         "compra": 52,
         "produtos": [
             "Pastel Frango",
-            "Doce Amendoim"
+            "Doce"
         ]
     },
     {
@@ -456,7 +456,7 @@
     {
         "compra": 58,
         "produtos": [
-            "Doce Leite",
+            "Doce",
             "Pastel Carne",
             "Queijo Mussarela",
             "Refri - Fanta"
@@ -466,7 +466,7 @@
         "compra": 59,
         "produtos": [
             "Pão Francês",
-            "Doce Amendoim",
+            "Doce",
             "Refri - Fanta",
             "Presunto Sadia"
         ]
@@ -484,14 +484,14 @@
             "Queijo Mussarela",
             "Café Melita",
             "Pastel Queijo",
-            "Doce Goiabada"
+            "Doce"
         ]
     },
     {
         "compra": 62,
         "produtos": [
             "Queijo Mussarela",
-            "Doce Goiabada",
+            "Doce",
             "Café Melita",
             "Refri - Fanta"
         ]
@@ -502,7 +502,7 @@
             "Café Melita",
             "Pão Cabrito",
             "Refri - Pepsi",
-            "Doce Leite"
+            "Doce"
         ]
     },
     {
@@ -564,7 +564,7 @@
         "produtos": [
             "Queijo Minas",
             "Pão Francês",
-            "Doce Amendoim"
+            "Doce"
         ]
     },
     {
@@ -579,7 +579,7 @@
         "produtos": [
             "Refri - Pepsi",
             "Queijo Mussarela",
-            "Doce Amendoim"
+            "Doce"
         ]
     },
     {
@@ -593,7 +593,7 @@
     {
         "compra": 75,
         "produtos": [
-            "Doce Goiabada",
+            "Doce",
             "Presunto Sadia",
             "Refri - Coca Cola",
             "Pão Gajeta"
@@ -603,7 +603,7 @@
         "compra": 76,
         "produtos": [
             "Café Iguaçú",
-            "Doce Amendoim",
+            "Doce",
             "Presunto Perdigão"
         ]
     },
@@ -652,14 +652,14 @@
         "produtos": [
             "Queijo Mussarela",
             "Presunto Perdigão",
-            "Doce Amendoim",
+            "Doce",
             "Pastel Queijo"
         ]
     },
     {
         "compra": 83,
         "produtos": [
-            "Doce Amendoim",
+            "Doce",
             "Pastel Frango",
             "Refri - Fanta",
             "Café Nestle"
@@ -668,7 +668,7 @@
     {
         "compra": 84,
         "produtos": [
-            "Doce Goiabada",
+            "Doce",
             "Refri - Coca Cola",
             "Pão Cabrito"
         ]
@@ -694,7 +694,7 @@
         "produtos": [
             "Pastel Queijo",
             "Café Melita",
-            "Doce Leite",
+            "Doce",
             "Refri - Pepsi"
         ]
     },
@@ -712,7 +712,7 @@
         "produtos": [
             "Queijo Mussarela",
             "Refri - Fanta",
-            "Doce Goiabada"
+            "Doce"
         ]
     },
     {
@@ -765,7 +765,7 @@
         "compra": 96,
         "produtos": [
             "Queijo Minas",
-            "Doce Goiabada",
+            "Doce",
             "Pastel Frango"
         ]
     },
@@ -774,7 +774,7 @@
         "produtos": [
             "Pão Francês",
             "Café Melita",
-            "Doce Leite",
+            "Doce",
             "Pastel Queijo"
         ]
     },
@@ -792,7 +792,7 @@
         "produtos": [
             "Café Iguaçú",
             "Refri - Coca Cola",
-            "Doce Goiabada",
+            "Doce",
             "Presunto Seara"
         ]
     },
@@ -815,7 +815,7 @@
         "compra": 102,
         "produtos": [
             "Presunto Perdigão",
-            "Doce Leite",
+            "Doce",
             "Queijo Minas"
         ]
     },
@@ -830,7 +830,7 @@
     {
         "compra": 104,
         "produtos": [
-            "Doce Amendoim",
+            "Doce",
             "Pão Francês",
             "Presunto Seara",
             "Queijo Lanche"
@@ -840,7 +840,7 @@
         "compra": 105,
         "produtos": [
             "Pastel Carne",
-            "Doce Leite"
+            "Doce"
         ]
     },
     {
@@ -848,7 +848,7 @@
         "produtos": [
             "Café Iguaçú",
             "Queijo Mussarela",
-            "Doce Goiabada",
+            "Doce",
             "Pastel Frango"
         ]
     },
@@ -879,13 +879,13 @@
         "produtos": [
             "Refri - Fanta",
             "Café Nestle",
-            "Doce Goiabada"
+            "Doce"
         ]
     },
     {
         "compra": 111,
         "produtos": [
-            "Doce Goiabada",
+            "Doce",
             "Café Melita",
             "Queijo Mussarela"
         ]
@@ -893,7 +893,7 @@
     {
         "compra": 112,
         "produtos": [
-            "Doce Goiabada",
+            "Doce",
             "Refri - Fanta",
             "Pão Sovado"
         ]
@@ -924,7 +924,7 @@
         "compra": 116,
         "produtos": [
             "Café Máquina",
-            "Doce Goiabada"
+            "Doce"
         ]
     },
     {
