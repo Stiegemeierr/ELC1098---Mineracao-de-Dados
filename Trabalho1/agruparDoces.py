@@ -2,12 +2,11 @@ import json
 import re
 
 
-arquivo_json = r'C:\Users\Gabriel\Documents\GitHub\ELC1098---Mineracao-de-Dados\Trabalho1\padaria_trab.json'
+arquivo_processado = r'.\exerc1.json'
+arquivo_doces = r'.\exerc2.json'
 
-
-with open(arquivo_json, 'r', encoding='utf-8') as f:
+with open(arquivo_processado, 'r', encoding='utf-8') as f:
     dados = json.load(f)
-
 
 for item in dados:
     item["produtos"] = [
@@ -15,8 +14,7 @@ for item in dados:
         for produto in item["produtos"]
     ]
 
-
-with open(arquivo_json, 'w', encoding='utf-8') as f:
+with open(arquivo_doces, 'w', encoding='utf-8') as f:
     json.dump(dados, f, ensure_ascii=False, indent=4)
 
-print("O arquivo JSON foi atualizado com 'Doce' sem o tipo!")
+print("Um arquivo JSON com os doces agrupados foi criado!")
