@@ -14,26 +14,26 @@ for i, item in enumerate(dados):
     for compra in item["produtos"]:
         meuSet.add(compra)
 
-ordered_items = sorted(list(meuSet))
+itens_ordenados = sorted(list(meuSet))
 
 for i, item in enumerate(dados):
-    data.append([False] * len(ordered_items))
-    for j, produto in enumerate(ordered_items):
+    data.append([False] * len(itens_ordenados))
+    for j, produto in enumerate(itens_ordenados):
         if(produto in item["produtos"]):
             data[i][j] = True
 
-df = pd.DataFrame(data, columns=ordered_items)
+df = pd.DataFrame(data, columns=itens_ordenados)
 
 df.to_csv('dataFrameDoce.csv', index=False)
 
-frequent_itemsets = apriori(df, min_support=0.03, use_colnames=True)
+itens_frequentes = apriori(df, min_support=0.03, use_colnames=True)
 
-rules = association_rules(frequent_itemsets, metric='confidence', min_threshold=0.3)
+rules = association_rules(itens_frequentes, metric='confidence', min_threshold=0.5)
 
 regras_consequentes = rules[rules['consequents'].apply(lambda x: 'Doce' in x)]
 
 print("Conjuntos frequentes:")
-print(frequent_itemsets)
+print(itens_frequentes)
 
 print("\nRegras onde 'Doce' é um consequente:")
 print(regras_consequentes)

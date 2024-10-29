@@ -33,5 +33,5 @@ rules = association_rules(itens_frequentes, metric='confidence', min_threshold=0
 print("Conjuntos frequentes:")
 print(itens_frequentes)
 
-print("Regras de associação:")
+print("\nRegras de associação:")
 print(rules)
